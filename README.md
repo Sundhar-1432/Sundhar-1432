@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Sundhar Varadharaj</h1>
+<h1 align="center">Hi 👋, I'm Sundhar Varadharaj</h1>
 <h3 align="center"> passionate cyber sec Student from India</h3>
 <!--
 **Sundhar-1432/Sundhar-1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
