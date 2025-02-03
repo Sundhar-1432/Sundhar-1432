@@ -18,11 +18,15 @@
 <br>
 
 
+<h1>LeetCode Status:</h1>
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sundhar143?theme=unicorn&font=Roboto&ext=heatmap)
 
 <br>
 <br>
+<h1>Github Contribrution Graph: </h1>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sundhar-1432&bg_color=000000&color=00ff1e&line=9ef9ff&point=fed43e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
