@@ -1,16 +1,14 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Aditya Sundhar Varadharaj</h1>
+<h3 align="center"> passionate cyber sec Student from India</h3>
 <!--
 **Sundhar-1432/Sundhar-1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
+🌱 I’m currently learning CPP and DSA <br>
+📫 How to reach me svssundhar143@gmail.com <br>
+⚡ Fact: Destiny is waiting for you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<br><br><br>
+<h1 align="center">Connect with me:</h1>
